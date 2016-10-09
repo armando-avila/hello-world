@@ -4,11 +4,3 @@ Repositorio de prueba para conocer GitHub
 
 Nueva Linea
 Linea de prueba mac sts en branch
-=======
-# hello-world
-Repositorio de prueba para conocer GitHub
-
-Nueva Linea
-
-Nueva linea desde sts s
->>>>>>> origin/master
